@@ -1,0 +1,82 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #868e96;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-weight: 100;
+    color: #343a40;
+}
+
+h1 {
+    font-size: 6rem;
+    line-height: 6rem;
+}
+
+h2 {
+    font-size: 3.5rem;
+}
+
+.subheading {
+    font-weight: 100;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 1.2rem;
+}
+
+#sideNav .navbar-nav .nav-item .nav-link {
+    font-weight: 100;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.btn-store {
+    background-color: #ec6a42;
+    color: #f0f0f0;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.btn-store:hover {
+    background-color: #495057;
+    color: #f0f0f0;}
+
+.list-languages a {
+    color: #495057;
+}
+
+.list-languages a:hover {
+    color: #ec6a42;
+}
+
+.list-social-icons a:hover {
+    color: #ec6a42;
+}
+
+.list-icons .list-inline-item i:hover {
+    color: #ec6a42;
+}
+
+.bg-primary {
+    background-color: #212529 !important;
+}
+
+.text-primary {
+    color: #ec6a42 !important;
+}
+
+a {
+    color: #ec6a42;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #ec6a42;
+}
